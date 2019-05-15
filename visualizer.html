@@ -139,7 +139,7 @@
   <div id="add_svg"></div>
   <script>
 
-function display(value){
+function display(display_value){
      var margin = {
         top: 20,
         right: 80,
@@ -378,7 +378,7 @@ function display(value){
                 // {
                            
                
-                if(value == 'all' || display_value.replace(/\s/g, '') == d.name)
+                if(display_value == 'all' || display_value.replace(/\s/g, '') == d.name)
                 {
                     return d.name;
                    }
