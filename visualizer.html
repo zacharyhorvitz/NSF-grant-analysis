@@ -139,9 +139,6 @@
   <div id="add_svg"></div>
   <script>
 
-function display(display_value){
-     alert(display_value)
-     d3.select("svg").remove()
      var margin = {
         top: 20,
         right: 80,
@@ -379,7 +376,8 @@ function display(display_value){
                 // for(var i = 0; i < key_term.length; i++)
                 // {
                            
-               
+               display_value = document.getElementById("choose").value;
+
                 if(display_value == 'all' || display_value.replace(/\s/g, '') == d.name)
                 {
                     return d.name;
@@ -403,7 +401,7 @@ function display(display_value){
       });
       
       });
-                                                        }
+                                                        
   </script>
   
 
