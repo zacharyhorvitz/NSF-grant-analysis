@@ -1,4 +1,4 @@
-YEAR: 1980
+YEAR: 1984-5
 	Word: develop+unified, TF-IDF: 0.00362
 	Word: design+integrated, TF-IDF: 0.00362
 	Word: digital+image, TF-IDF: 0.003
@@ -9,7 +9,7 @@ YEAR: 1980
 	Word: provide+useful, TF-IDF: 0.00245
 	Word: computer+communication, TF-IDF: 0.00245
 	Word: bit+rate, TF-IDF: 0.00245
-YEAR: 1985
+YEAR: 1985-90
 	Word: instrumentation+grants, TF-IDF: 0.00586
 	Word: engineering+program, TF-IDF: 0.00199
 	Word: supercomputer+centers, TF-IDF: 0.00191
@@ -20,7 +20,7 @@ YEAR: 1985
 	Word: neural+network, TF-IDF: 0.00104
 	Word: cise+directorate, TF-IDF: 0.0009
 	Word: announcement+nsf, TF-IDF: 0.00089
-YEAR: 1990
+YEAR: 1990-95
 	Word: provide+operations, TF-IDF: 0.00903
 	Word: 45+million, TF-IDF: 0.00876
 	Word: speed+15, TF-IDF: 0.00863
@@ -31,7 +31,7 @@ YEAR: 1990
 	Word: reliable+mail, TF-IDF: 0.00717
 	Word: mail+system, TF-IDF: 0.00717
 	Word: system+students, TF-IDF: 0.00703
-YEAR: 1995
+YEAR: 1995-2000
 	Word: 12+mos, TF-IDF: 0.00183
 	Word: continuing+award, TF-IDF: 0.00171
 	Word: year+continuing, TF-IDF: 0.00166
@@ -42,7 +42,7 @@ YEAR: 1995
 	Word: institutions+include, TF-IDF: 0.00117
 	Word: wireless+access, TF-IDF: 0.00111
 	Word: year+funding, TF-IDF: 0.00109
-YEAR: 2000
+YEAR: 2000-05
 	Word: broader+impacts, TF-IDF: 0.00306
 	Word: intellectual+merit, TF-IDF: 0.00271
 	Word: proposal+number, TF-IDF: 0.00189
@@ -53,7 +53,7 @@ YEAR: 2000
 	Word: cise+computing, TF-IDF: 0.00133
 	Word: sensor+network, TF-IDF: 0.00129
 	Word: abstract+proposal, TF-IDF: 0.00128
-YEAR: 2005
+YEAR: 2005-10
 	Word: american+recovery, TF-IDF: 0.00774
 	Word: reinvestment+act, TF-IDF: 0.00772
 	Word: law+1115, TF-IDF: 0.00765
@@ -64,7 +64,7 @@ YEAR: 2005
 	Word: intellectual+merit, TF-IDF: 0.00178
 	Word: cyberphysical+systems, TF-IDF: 0.00132
 	Word: virtual+organizations, TF-IDF: 0.00124
-YEAR: 2010
+YEAR: 2010-15
 	Word: big+data, TF-IDF: 0.0066
 	Word: icorps+site, TF-IDF: 0.00188
 	Word: cloud+computing, TF-IDF: 0.00186
@@ -75,7 +75,7 @@ YEAR: 2010
 	Word: data+centers, TF-IDF: 0.00098
 	Word: science+dmz, TF-IDF: 0.00095
 	Word: mobile+devices, TF-IDF: 0.00092
-YEAR: 2015
+YEAR: 2015-20
 	Word: big+data, TF-IDF: 0.00392
 	Word: data+science, TF-IDF: 0.00242
 	Word: deep+learning, TF-IDF: 0.00208
