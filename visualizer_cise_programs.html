@@ -29,7 +29,7 @@
 
 <body>
   
-  <h1>CISE NSF Grant Term Counts Per 10,000 Bigrams </h1>
+  <h1>CISE NSF Grant Programs </h1>
   <div id="add_svg"></div>
   <script>
   // #key_term = ["bayes","nation","impact","broad","economy","next","merit","threat","ai","intelligence","surveillance","logic"]
@@ -62,7 +62,7 @@
       .attr("height", height + margin.top + margin.bottom)
       .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-  d3.tsv("CISE_bigram_30_year_100.tsv").then(function(data){
+  d3.tsv("CISE_all_programs.tsv").then(function(data){
     color.domain(d3.keys(data[0]).filter(function(key) {
       return key !== "date";
     }));
