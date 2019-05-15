@@ -70,7 +70,7 @@
       .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  d3.tsv("CISE_bigram_30_year_100_90s.tsv").then(function(data){
+  d3.tsv("https://github.com/zacharyhorvitz/NSF-grant-analysis/blob/master/CISE_bigram_30_year_100.tsv").then(function(data){
 
     color.domain(d3.keys(data[0]).filter(function(key) {
       return key !== "date";
